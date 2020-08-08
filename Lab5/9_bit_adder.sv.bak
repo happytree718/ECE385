@@ -1,0 +1,12 @@
+module Adder_9(
+			input logic[7:0] S,
+			input logic[7:0] A,
+			output logic[7:0] 
+
+);
+
+
+
+
+
+endmodule

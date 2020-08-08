@@ -1,0 +1,4 @@
+module Control(
+			input logic Clk, Reset, Run, ClearA_LoadB,
+			output logic Clr_Ld, 
+);

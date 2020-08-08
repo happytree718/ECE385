@@ -1,0 +1,520 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/simulation/modelsim
+vALU
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1582764764
+!i10b 1
+!s100 G5aTb`;VMYE>kmh[K]cW80
+I8bGI86]NmN2gSQ?`42QY^2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+R0
+w1582316426
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ALU.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ALU.sv
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1582764764.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ALU.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ALU.sv|
+!i113 1
+Z5 o-sv -work work
+Z6 !s92 -sv -work work {+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6}
+Z7 tCvgOpt 0
+n@a@l@u
+vBEN_logic
+R1
+Z8 !s110 1582764757
+!i10b 1
+!s100 Sh?CZ3RZHNR5hXS7Vz9Ec3
+IY5`[O@Qd09eQ^5>ojCEHU2
+R2
+Z9 !s105 BEN_sv_unit
+S1
+R0
+Z10 w1582696874
+Z11 8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/BEN.sv
+Z12 FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/BEN.sv
+Z13 L0 19
+R3
+r1
+!s85 0
+31
+Z14 !s108 1582764757.000000
+Z15 !s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/BEN.sv|
+Z16 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/BEN.sv|
+!i113 1
+R5
+R6
+R7
+n@b@e@n_logic
+vdatapath
+R1
+!s110 1582764763
+!i10b 1
+!s100 ?Ec@W8G:6Q5O1P0n9K<a]2
+I>Vc>k3OO8zLoG8kiYJ5RB3
+R2
+!s105 datapath_sv_unit
+S1
+R0
+w1582322819
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/datapath.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/datapath.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1582764763.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/datapath.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/datapath.sv|
+!i113 1
+R5
+R6
+R7
+vHexDriver
+R1
+!s110 1582764758
+!i10b 1
+!s100 =R2i165HPJgkY;aA[TRmG3
+Ik36Vo5EUO`LN>a3FbA<Y33
+R2
+!s105 HexDriver_sv_unit
+S1
+R0
+w1453932322
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/HexDriver.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/HexDriver.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1582764758.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/HexDriver.sv|
+!i113 1
+R5
+R6
+R7
+n@hex@driver
+vISDU
+R1
+!s110 1582764768
+!i10b 1
+!s100 QNc[GPDk_J<WdKSPW@afV0
+I3_5T2zXmW7K`gkj_MoNzR3
+R2
+!s105 ISDU_sv_unit
+S1
+R0
+w1582700346
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ISDU.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ISDU.sv
+R13
+R3
+r1
+!s85 0
+31
+!s108 1582764767.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ISDU.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/ISDU.sv|
+!i113 1
+R5
+R6
+R7
+n@i@s@d@u
+vlab6_toplevel
+R1
+!s110 1582764772
+!i10b 1
+!s100 k;XFYEj__@<f`n61h0?<B3
+IWSCooL`QLGgO5Xo@EEL;o0
+R2
+!s105 lab6_toplevel_sv_unit
+S1
+R0
+w1508809841
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/lab6_toplevel.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/lab6_toplevel.sv
+L0 10
+R3
+r1
+!s85 0
+31
+!s108 1582764772.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/lab6_toplevel.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/lab6_toplevel.sv|
+!i113 1
+R5
+R6
+R7
+vMem2IO
+R1
+!s110 1582764767
+!i10b 1
+!s100 d<=A`]_5?F8Tz<i9:]04<3
+IBz5@UP^@1>GQ7mZ7?4X982
+R2
+!s105 Mem2IO_sv_unit
+S1
+R0
+Z17 w1506381592
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/Mem2IO.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/Mem2IO.sv
+Z18 L0 16
+R3
+r1
+!s85 0
+31
+Z19 !s108 1582764766.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/Mem2IO.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/Mem2IO.sv|
+!i113 1
+R5
+R6
+R7
+n@mem2@i@o
+Xmemory_contents_sv_unit
+R1
+Z20 DXx4 work 6 SLC3_2 0 22 ia<43]C6[i[N31m0e@7Ha2
+V11z7W55D6NhXJ?m^A7eCT3
+r1
+!s85 0
+31
+!i10b 1
+!s100 c2m7WKcaV<L[XVf`30RGj3
+I11z7W55D6NhXJ?m^A7eCT3
+!i103 1
+S1
+R0
+Z21 w1518295033
+Z22 8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/memory_contents.sv
+Z23 FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/memory_contents.sv
+L0 14
+R3
+Z24 !s108 1582764770.000000
+Z25 !s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/memory_contents.sv|
+Z26 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/memory_contents.sv|
+!i113 1
+R5
+R6
+R7
+vmemory_parser
+R1
+R20
+DXx4 work 23 memory_contents_sv_unit 0 22 11z7W55D6NhXJ?m^A7eCT3
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 744B[g>P4=Q9zVQXU8>HF2
+I0^<=6o1XaCHeR[k6P:PZ>1
+!s105 memory_contents_sv_unit
+S1
+R0
+R21
+R22
+R23
+R18
+R3
+R24
+R25
+R26
+!i113 1
+R5
+R6
+R7
+vMUX_2_1
+R1
+Z27 !s110 1582764762
+!i10b 1
+!s100 VYLoKZ9P2]k=bMjY>QMGf0
+IoZH<eU^_:k6F;i;Tdd0b?0
+R2
+Z28 !s105 MUX_sv_unit
+S1
+R0
+Z29 w1582302091
+Z30 8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/MUX.sv
+Z31 FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/MUX.sv
+L0 1
+R3
+r1
+!s85 0
+31
+Z32 !s108 1582764762.000000
+Z33 !s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/MUX.sv|
+Z34 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/MUX.sv|
+!i113 1
+R5
+R6
+R7
+n@m@u@x_2_1
+vMUX_4_1
+R1
+R27
+!i10b 1
+!s100 cnbUJk76]0^aGGzA4jh3C3
+Ic^D]eJzWJJnN;R81?UC2G2
+R2
+R28
+S1
+R0
+R29
+R30
+R31
+L0 15
+R3
+r1
+!s85 0
+31
+R32
+R33
+R34
+!i113 1
+R5
+R6
+R7
+n@m@u@x_4_1
+vMUX_8_1
+R1
+R27
+!i10b 1
+!s100 iNATgnWgIFJ`AzfFiiQ]Y0
+Im2n8Jb?MoKP]j=J=J@dVF1
+R2
+R28
+S1
+R0
+R29
+R30
+R31
+L0 33
+R3
+r1
+!s85 0
+31
+R32
+R33
+R34
+!i113 1
+R5
+R6
+R7
+n@m@u@x_8_1
+vNZP_logic
+R1
+R8
+!i10b 1
+!s100 V4_I??BmhA>fDDK:K]9bK2
+IRm>>U34=>m;UeUhH:ac]61
+R2
+R9
+S1
+R0
+R10
+R11
+R12
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R5
+R6
+R7
+n@n@z@p_logic
+vreg_file
+R1
+Z35 !s110 1582764760
+!i10b 1
+!s100 >AF0^bk^]:H9a=<5je:ZT0
+I;:A?JI5zd@KkiQ9>6Z9[U3
+R2
+Z36 !s105 reg_file_sv_unit
+S1
+R0
+Z37 w1582393636
+Z38 8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/reg_file.sv
+Z39 FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/reg_file.sv
+L0 1
+R3
+r1
+!s85 0
+31
+Z40 !s108 1582764760.000000
+Z41 !s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/reg_file.sv|
+Z42 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/reg_file.sv|
+!i113 1
+R5
+R6
+R7
+vregister
+R1
+R35
+!i10b 1
+!s100 MCD6e=[VfROgXXYM=Yn5[0
+I>T<bdDzn=3Rl50]jbRNUS0
+R2
+R36
+S1
+R0
+R37
+R38
+R39
+L0 110
+R3
+r1
+!s85 0
+31
+R40
+R41
+R42
+!i113 1
+R5
+R6
+R7
+vslc3
+R1
+!s110 1582764769
+!i10b 1
+!s100 0P;Y>;NJNbdKoCKjEizE53
+IGBUAEL0lleMQ^[>zRdDzf0
+R2
+!s105 slc3_sv_unit
+S1
+R0
+w1582677895
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/slc3.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/slc3.sv
+R13
+R3
+r1
+!s85 0
+31
+!s108 1582764769.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/slc3.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/slc3.sv|
+!i113 1
+R5
+R6
+R7
+XSLC3_2
+R1
+!s110 1582764766
+!i10b 1
+!s100 Cz8_^@QRefP31?j=Zf>lj0
+Iia<43]C6[i[N31m0e@7Ha2
+Via<43]C6[i[N31m0e@7Ha2
+S1
+R0
+R17
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/SLC3_2.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/SLC3_2.sv
+L0 24
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/SLC3_2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/SLC3_2.sv|
+!i113 1
+R5
+R6
+R7
+n@s@l@c3_2
+vtest_memory
+R1
+Z43 !s110 1582764765
+!i10b 1
+!s100 AZAU7PQT4]][EEHo>57W43
+IMNPU>@iQdUKg<BlUU07WB3
+R2
+!s105 test_memory_sv_unit
+S1
+R0
+w1508442516
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/test_memory.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/test_memory.sv
+L0 22
+R3
+r1
+!s85 0
+31
+!s108 1582764765.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/test_memory.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/test_memory.sv|
+!i113 1
+R5
+R6
+R7
+vtestbench
+R1
+!s110 1582764774
+!i10b 1
+!s100 jN9fBOm8DF?d;nlic]kbD2
+I1gRSK[iO5Se]fClaVXXWj3
+R2
+!s105 testbench2_sv_unit
+S1
+R0
+w1582758744
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/testbench2.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/testbench2.sv
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1582764774.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/testbench2.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/testbench2.sv|
+!i113 1
+R5
+R6
+R7
+vtristate
+R1
+R43
+!i10b 1
+!s100 Akazoo=71mOgoH<gVR_UC0
+IC9H`_eAk[I82RH];J^EG<2
+R2
+!s105 tristate_sv_unit
+S1
+R0
+R17
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/tristate.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/tristate.sv
+R18
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/tristate.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab6/tristate.sv|
+!i113 1
+R5
+R6
+R7

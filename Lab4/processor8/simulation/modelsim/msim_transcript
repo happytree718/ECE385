@@ -1,0 +1,153 @@
+# Reading C:/intelFPGA_lite/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# do processor8_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Synchronizers.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:57 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Synchronizers.sv 
+# -- Compiling module sync
+# -- Compiling module sync_r0
+# -- Compiling module sync_r1
+# 
+# Top level modules:
+# 	sync
+# 	sync_r0
+# 	sync_r1
+# End time: 18:05:57 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Router.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:58 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Router.sv 
+# -- Compiling module router
+# 
+# Top level modules:
+# 	router
+# End time: 18:05:58 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Reg_4.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:05:59 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Reg_4.sv 
+# -- Compiling module reg_4
+# 
+# Top level modules:
+# 	reg_4
+# End time: 18:05:59 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/HexDriver.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:06:00 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/HexDriver.sv 
+# -- Compiling module HexDriver
+# 
+# Top level modules:
+# 	HexDriver
+# End time: 18:06:00 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Control.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:06:00 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Control.sv 
+# -- Compiling module control
+# 
+# Top level modules:
+# 	control
+# End time: 18:06:00 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/compute.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:06:01 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/compute.sv 
+# -- Compiling module compute
+# 
+# Top level modules:
+# 	compute
+# End time: 18:06:01 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Register_unit.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:06:01 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Register_unit.sv 
+# -- Compiling module register_unit
+# 
+# Top level modules:
+# 	register_unit
+# End time: 18:06:01 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Processor.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:06:02 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Processor.sv 
+# -- Compiling module Processor
+# 
+# Top level modules:
+# 	Processor
+# End time: 18:06:02 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/testbench.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:06:03 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/testbench.sv 
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 18:06:03 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE\ 385/Lab4/processor8 {C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/testbench_8.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 18:06:03 on Feb 11,2020
+# vlog -reportprogress 300 -sv -work work "+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8" C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/testbench_8.sv 
+# -- Compiling module testbench
+# 
+# Top level modules:
+# 	testbench
+# End time: 18:06:03 on Feb 11,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  testbench
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=""+acc"" testbench 
+# Start time: 18:06:04 on Feb 11,2020
+# Loading sv_std.std
+# Loading work.testbench
+# Loading work.Processor
+# Loading work.register_unit
+# Loading work.reg_4
+# Loading work.compute
+# Loading work.router
+# Loading work.control
+# Loading work.HexDriver
+# Loading work.sync
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Warning: (vsim-8315) C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Control.sv(25): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/processor0/control_unit
+# ** Warning: (vsim-8315) C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Router.sv(17): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/processor0/router
+# ** Warning: (vsim-8315) C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Router.sv(7): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/processor0/router
+# ** Warning: (vsim-8315) C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/compute.sv(8): No condition is true in the unique/priority if/case statement.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench/processor0/compute_unit
+# ** Warning: (vsim-8315) C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Control.sv(25): No condition is true in the unique/priority if/case statement.
+#    Time: 10 ns  Iteration: 2  Instance: /testbench/processor0/control_unit
+# Success!
+# Break key hit
+# Break in Module sync at C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/processor8/Synchronizers.sv line 9
+# End time: 18:07:28 on Feb 11,2020, Elapsed time: 0:01:24
+# Errors: 0, Warnings: 5

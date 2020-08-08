@@ -1,0 +1,163 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/output_files
+vcarry_lookahead_adder
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1581120965
+!i10b 1
+!s100 ;MQmDG:DoITjQIe@SdXI10
+IH^n8hnTFHBMe<nn[Ra;mj2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 !s105 carry_lookahead_adder_sv_unit
+S1
+R0
+Z5 w1581119370
+Z6 8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/carry_lookahead_adder.sv
+Z7 FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/carry_lookahead_adder.sv
+L0 1
+Z8 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z9 !s108 1581120964.000000
+Z10 !s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/carry_lookahead_adder.sv|
+Z11 !s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/carry_lookahead_adder.sv|
+!i113 1
+Z12 o-sv -work work
+Z13 !s92 -sv -work work {+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16}
+Z14 tCvgOpt 0
+vCL_unit
+R1
+R2
+!i10b 1
+!s100 @PL[YaMd;X1dE;JaPU@3o2
+I4`XXXl7[=g>`hBg<VGGHc3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 28
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@c@l_unit
+vCLA_4
+R1
+R2
+!i10b 1
+!s100 _HVHH5I>63APe9fJf;NEg2
+I3?z@MccXoc]?0AD2SE<_i3
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 51
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+n@c@l@a_4
+vfull_adder
+R1
+R2
+!i10b 1
+!s100 zfJI9J>WlLgj9J2aYH^gZ2
+ImLEVWhMTJ<PGG4Y5GzKo70
+R3
+R4
+S1
+R0
+R5
+R6
+R7
+L0 42
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!i113 1
+R12
+R13
+R14
+vHexDriver
+R1
+!s110 1581120964
+!i10b 1
+!s100 =R2i165HPJgkY;aA[TRmG3
+I4lK0BMVh`gd65kYAD4@il0
+R3
+!s105 HexDriver_sv_unit
+S1
+R0
+w1453932322
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/HexDriver.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/HexDriver.sv
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1581120961.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/HexDriver.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/HexDriver.sv|
+!i113 1
+R12
+R13
+R14
+n@hex@driver
+vlab4_adders_toplevel
+R1
+R2
+!i10b 1
+!s100 Ff0C^ZK^zfkDz504]X;SI2
+I7CQa7Qo5IB8B]]=6zF^=f0
+R3
+!s105 lab4_adders_toplevel_sv_unit
+S1
+R0
+w1581118733
+8C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/lab4_adders_toplevel.sv
+FC:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/lab4_adders_toplevel.sv
+L0 17
+R8
+r1
+!s85 0
+31
+!s108 1581120965.000000
+!s107 C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/lab4_adders_toplevel.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16|C:/Users/Erwin/Desktop/Assignments/semester4/ECE 385/Lab4/adder16/lab4_adders_toplevel.sv|
+!i113 1
+R12
+R13
+R14
